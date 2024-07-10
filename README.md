@@ -9,7 +9,7 @@ This project contains an intentionally vulnerable Android Application.
 2. the prebuilt binaries are available in releases section 
 
 
-## Writeup's
+## Writeup's 
 
 Share your writeup's and we will list them here. 
 Feel free to open pullrequests with writeup links
