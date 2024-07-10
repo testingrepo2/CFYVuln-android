@@ -12,7 +12,7 @@ This project contains an intentionally vulnerable Android Application.
 ## Writeup's 
 
 Share your writeup's and we will list them here. 
-Feel free to open pullrequests with writeup links
+Feel free to open pullrequests with writeup links 
 
 ## Official Writeup.
 
